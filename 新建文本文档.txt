@@ -9,10 +9,6 @@ int main()
 			const std::string e = "another string";
 			std::cout << e << std::endl;
 		}; }*/
-	/*const std::string hello = "hello";
-	const std::string m = hello + ",world" + "!";
-	std::cout << m << std::endl;
-	*/
 	{
 	    std::string s = "a string";
 		{
