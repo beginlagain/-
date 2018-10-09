@@ -2,13 +2,7 @@
 #include<string>
 int main()
 {
-	/*{
-		const std::string e = "a string";
-		std::cout << e << std::endl;
-		{
-			const std::string e = "another string";
-			std::cout << e << std::endl;
-		}; }*/
+	
 	{
 	    std::string s = "a string";
 		{
